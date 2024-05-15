@@ -1,0 +1,3 @@
+interface Lebar {
+    double getLebar();
+}

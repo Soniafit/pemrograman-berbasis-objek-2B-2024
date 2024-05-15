@@ -1,0 +1,3 @@
+interface JariJari {
+    double getJariJari();
+}
